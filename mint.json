@@ -17,7 +17,7 @@
   },
   "topbarLinks": [
     {
-      "name": "帮助邮箱",
+      "name": "联系我们",
       "url": "mailto:akirazhao@otaku.host"
     }
   ],
@@ -27,15 +27,15 @@
   },
   "tabs": [
     {
-      "name": "API Reference",
+      "name": "API接口调用",
       "url": "api-reference"
     }
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "帮助文档",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://docs.otaku.host/introduction"
     },
     {
       "name": "Community",
