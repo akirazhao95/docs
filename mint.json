@@ -17,25 +17,25 @@
   },
   "topbarLinks": [
     {
-      "name": "联系我们",
+      "name": "Support",
       "url": "mailto:akirazhao@otaku.host"
     }
   ],
   "topbarCtaButton": {
-    "name": "客户面板",
+    "name": "Dashboard",
     "url": "https://dashboard.otaku.host"
   },
   "tabs": [
     {
-      "name": "API接口调用",
+      "name": "API Reference",
       "url": "api-reference"
     }
   ],
   "anchors": [
     {
-      "name": "帮助文档",
+      "name": "Documentation",
       "icon": "book-open-cover",
-      "url": "https://docs.otaku.host/introduction"
+      "url": "https://mintlify.com/docs"
     },
     {
       "name": "Community",
